@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LabGuide6_Sol</string>
+    <string name="tvTitle">Lab Guide 6</string>
+    <string name="imgInfo">Message is</string>
+    <string name="secondButton">SECOND ACTIVITY</string>
+    <string name="txt_edittext_hint1">Enter String1:</string>
+    <string name="txt_edittext_hint2">Enter String2:</string>
+    <string name="txt_edittext_hint3">Enter Num1:</string>
+    <string name="txt_edittext_hint4">Enter Num2:</string>
+    <string name="txt_edittext_hint5">Enter Num3:</string>
+    <string name="txt_title_second_activity">SecondActivity</string>
+    <string name="txt_title_back">Back</string>
+    <string name="txt_contain">CONTAINED BUTTON</string>
+    <string-array name="books">
+        <item>art</item>
+        <item>science</item>
+        <item>music</item>
+    </string-array>
+</resources>
